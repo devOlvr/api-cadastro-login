@@ -12,7 +12,9 @@
 3. Adicione nos arquivos **.env** ou **.env.dev** as credencias do seu banco de dados.
 
 4. Acesse o terminal e execute os comandos (se necessário) a seguir:
+   <br/>
   **npm i**
+   <br/>
   **npm start**
 
-5. Acesse sua aplicação com a url de localhost fornecida.
+6. Acesse sua aplicação com a url de localhost fornecida.
