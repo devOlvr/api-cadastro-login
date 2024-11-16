@@ -17,4 +17,4 @@
    <br/>
   **npm start**
 
-6. Acesse sua aplicação com a url de localhost fornecida.
+6. Acesse sua aplicação com a url fornecida.
